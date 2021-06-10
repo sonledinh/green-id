@@ -8,13 +8,13 @@
 		</div>
 	</section>
 	<section class="box-service">
-		<div class="containe">
-			<div class="title text-center">
+		<div class="container">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2>Lĩnh vực</h2>
 			</div>
 			<div class="list-service">
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 wow fadeInLeft wHighlight" data-wow-delay=".25s">
 						<div class="item-srv text-center">
 							<div class="icon"><img src="images/icon-srv.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -23,7 +23,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 wow fadeInLeft wHighlight" data-wow-delay=".35s">
 						<div class="item-srv text-center">
 							<div class="icon"><img src="images/icon-srv.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -32,7 +32,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 wow fadeInLeft wHighlight" data-wow-delay=".45s">
 						<div class="item-srv text-center">
 							<div class="icon"><img src="images/icon-srv.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -41,7 +41,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6 wow fadeInLeft wHighlight" data-wow-delay=".55s">
 						<div class="item-srv text-center">
 							<div class="icon"><img src="images/icon-srv.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -56,33 +56,33 @@
 	</section>
 	<section class="box-number">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2>Những con số nổi bật</h2>
 			</div>
 			<div class="list-number text-center">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-3 col-sm-3 col-6 wow fadeInUp wHighlight" data-wow-delay=".25s">
 						<div class="item-numb">
-							<h4 class="text-uppercase">Só thành viên</h4>
-							<div class="numb-hot">+<span>1000</span></div>
+							<div class="numb-hot">+<span class="counter-count">1000</span></div>
+							<h4 class="text-uppercase">Số thành viên</h4>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3 col-sm-3 col-6 wow fadeInUp wHighlight" data-wow-delay=".35s">
 						<div class="item-numb">
-							<h4 class="text-uppercase">Só thành viên</h4>
-							<div class="numb-hot">+<span>1000</span></div>
+							<div class="numb-hot">+<span class="counter-count">1000</span></div>
+							<h4 class="text-uppercase">Số thành viên</h4>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3 col-sm-3 col-6 wow fadeInUp wHighlight" data-wow-delay=".45s">
 						<div class="item-numb">
-							<h4 class="text-uppercase">Só thành viên</h4>
-							<div class="numb-hot">+<span>1000</span></div>
+							<div class="numb-hot">+<span class="counter-count">1000</span></div>
+							<h4 class="text-uppercase">Số thành viên</h4>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3 col-sm-3 col-6 wow fadeInUp wHighlight" data-wow-delay=".55s">
 						<div class="item-numb">
-							<h4 class="text-uppercase">Só thành viên</h4>
-							<div class="numb-hot">+<span>1000</span></div>
+							<div class="numb-hot">+<span class="counter-count">1000</span></div>
+							<h4 class="text-uppercase">Số thành viên</h4>
 						</div>
 					</div>
 				</div>
@@ -91,17 +91,19 @@
 	</section>
 	<section class="box-news">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2>Tin tức</h2>
 			</div>
-			<div class="list-news">
+			<div class="list-news wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<div class="slide-new-home">
 					<div class="item-slide">
 						<div class="item-news">
 							<div class="avarta">
 								<a href=""><img src="http://greenidvietnam.org.vn/app/webroot/app/webroot/upload/admin/images/Ong-Le-Ngoc-Lam---TG.jpg" class="img-fluid w-100" alt=""></a>
 								<div class="desc">
-									After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									<div class="desc-abs">
+										After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									</div>
 								</div>
 							</div>
 							<div class="info">
@@ -114,7 +116,9 @@
 							<div class="avarta">
 								<a href=""><img src="http://greenidvietnam.org.vn/app/webroot/app/webroot/upload/admin/images/Ong-Le-Ngoc-Lam---TG.jpg" class="img-fluid w-100" alt=""></a>
 								<div class="desc">
-									After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									<div class="desc-abs">
+										After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									</div>
 								</div>
 							</div>
 							<div class="info">
@@ -127,7 +131,9 @@
 							<div class="avarta">
 								<a href=""><img src="http://greenidvietnam.org.vn/app/webroot/app/webroot/upload/admin/images/Ong-Le-Ngoc-Lam---TG.jpg" class="img-fluid w-100" alt=""></a>
 								<div class="desc">
-									After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									<div class="desc-abs">
+										After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									</div>
 								</div>
 							</div>
 							<div class="info">
@@ -140,7 +146,9 @@
 							<div class="avarta">
 								<a href=""><img src="http://greenidvietnam.org.vn/app/webroot/app/webroot/upload/admin/images/Ong-Le-Ngoc-Lam---TG.jpg" class="img-fluid w-100" alt=""></a>
 								<div class="desc">
-									After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									<div class="desc-abs">
+										After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									</div>
 								</div>
 							</div>
 							<div class="info">
@@ -153,7 +161,9 @@
 							<div class="avarta">
 								<a href=""><img src="http://greenidvietnam.org.vn/app/webroot/app/webroot/upload/admin/images/Ong-Le-Ngoc-Lam---TG.jpg" class="img-fluid w-100" alt=""></a>
 								<div class="desc">
-									After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									<div class="desc-abs">
+										After 03 years of implementation, the project “Green solutions for access to energy for poor communities in the Mekong Delta” need to hire an independent expert to
+									</div>
 								</div>
 							</div>
 							<div class="info">
@@ -162,20 +172,20 @@
 						</div>
 					</div>
 				</div>
-				<div class="load-more text-center"><a href="">Xem thêm</a></div>
+				<div class="load-more text-center wow fadeInUp wHighlight" data-wow-delay=".25s"><a href="">Xem thêm</a></div>
 			</div>
 		</div>
 	</section>
 	<section class="box-member">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2>Đội ngũ nhân sự</h2>
 			</div>
-			<div class="list-member">
+			<div class="list-member wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<div class="slide-memb">
 					<div class="item-slide">
 						<div class="item-memb text-center">
-							<div class="avarta"><a href=""><img src="https://images.prismic.io/globalgoals%2F4b91e51f-463a-4788-98f7-9a15ea5a6630_goal_14.7_rgb_ng.svg?auto=compress,format" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href=""><img src="http://tpl.gco.vn/garden/images/feed-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h4>Đây là tên</h4>
 								<h6>Nhân viên</h6>
@@ -184,7 +194,7 @@
 					</div>
 					<div class="item-slide">
 						<div class="item-memb text-center">
-							<div class="avarta"><a href=""><img src="https://images.prismic.io/globalgoals%2F4b91e51f-463a-4788-98f7-9a15ea5a6630_goal_14.7_rgb_ng.svg?auto=compress,format" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href=""><img src="http://tpl.gco.vn/garden/images/feed-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h4>Đây là tên</h4>
 								<h6>Nhân viên</h6>
@@ -193,7 +203,7 @@
 					</div>
 					<div class="item-slide">
 						<div class="item-memb text-center">
-							<div class="avarta"><a href=""><img src="https://images.prismic.io/globalgoals%2F4b91e51f-463a-4788-98f7-9a15ea5a6630_goal_14.7_rgb_ng.svg?auto=compress,format" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href=""><img src="http://tpl.gco.vn/garden/images/feed-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h4>Đây là tên</h4>
 								<h6>Nhân viên</h6>
@@ -202,7 +212,7 @@
 					</div>
 					<div class="item-slide">
 						<div class="item-memb text-center">
-							<div class="avarta"><a href=""><img src="https://images.prismic.io/globalgoals%2F4b91e51f-463a-4788-98f7-9a15ea5a6630_goal_14.7_rgb_ng.svg?auto=compress,format" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href=""><img src="http://tpl.gco.vn/garden/images/feed-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h4>Đây là tên</h4>
 								<h6>Nhân viên</h6>
@@ -211,12 +221,53 @@
 					</div>
 					<div class="item-slide">
 						<div class="item-memb text-center">
-							<div class="avarta"><a href=""><img src="https://images.prismic.io/globalgoals%2F4b91e51f-463a-4788-98f7-9a15ea5a6630_goal_14.7_rgb_ng.svg?auto=compress,format" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href=""><img src="http://tpl.gco.vn/garden/images/feed-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h4>Đây là tên</h4>
 								<h6>Nhân viên</h6>
 							</div>
 						</div>
+					</div>
+					<div class="item-slide">
+						<div class="item-memb text-center">
+							<div class="avarta"><a href=""><img src="http://tpl.gco.vn/garden/images/feed-1.png" class="img-fluid" alt=""></a></div>
+							<div class="info">
+								<h4>Đây là tên</h4>
+								<h6>Nhân viên</h6>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="box-partner">
+		<div class="container">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
+				<h2>Đối tác của chúng tôi</h2>
+			</div>
+			<div class="partner text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
+				<div class="slide-part">
+					<div class="item-slide">
+						<div class="item-part"><a href=""><img src="http://greenidvietnam.org.vn/app/webroot/upload/admin/images/logo_IASS.jpg" class="img-fluid" alt=""></a></div>
+					</div>
+					<div class="item-slide">
+						<div class="item-part"><a href=""><img src="http://greenidvietnam.org.vn/app/webroot/upload/admin/images/logo_IASS.jpg" class="img-fluid" alt=""></a></div>
+					</div>
+					<div class="item-slide">
+						<div class="item-part"><a href=""><img src="http://greenidvietnam.org.vn/app/webroot/upload/admin/images/logo_IASS.jpg" class="img-fluid" alt=""></a></div>
+					</div>
+					<div class="item-slide">
+						<div class="item-part"><a href=""><img src="http://greenidvietnam.org.vn/app/webroot/upload/admin/images/logo_IASS.jpg" class="img-fluid" alt=""></a></div>
+					</div>
+					<div class="item-slide">
+						<div class="item-part"><a href=""><img src="http://greenidvietnam.org.vn/app/webroot/upload/admin/images/logo_IASS.jpg" class="img-fluid" alt=""></a></div>
+					</div>
+					<div class="item-slide">
+						<div class="item-part"><a href=""><img src="http://greenidvietnam.org.vn/app/webroot/upload/admin/images/logo_IASS.jpg" class="img-fluid" alt=""></a></div>
+					</div>
+					<div class="item-slide">
+						<div class="item-part"><a href=""><img src="http://greenidvietnam.org.vn/app/webroot/upload/admin/images/logo_IASS.jpg" class="img-fluid" alt=""></a></div>
 					</div>
 				</div>
 			</div>
